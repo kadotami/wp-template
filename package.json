@@ -1,0 +1,25 @@
+{
+  "name": "saga-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadotami/saga-theme.git"
+  },
+  "author": "kadotami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadotami/saga-theme/issues"
+  },
+  "homepage": "https://github.com/kadotami/saga-theme#readme",
+  "devDependencies": {
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
