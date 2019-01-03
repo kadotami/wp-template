@@ -6,5 +6,9 @@ Author URI: http://kdtm.local/
 Version: 1.0
 */
 
-@import 'reset';
-@import 'settings';
+@import 'partials/reset';
+@import 'partials/settings';
+
+
+
+@import 'partials/header';
