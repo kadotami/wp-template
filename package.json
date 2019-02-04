@@ -1,5 +1,5 @@
 {
-  "name": "saga-theme",
+  "name": "wp-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kadotami/saga-theme.git"
+    "url": "git+https://github.com/kadotami/wp-template.git"
   },
   "author": "kadotami",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kadotami/saga-theme/issues"
+    "url": "https://github.com/kadotami/wp-template/issues"
   },
-  "homepage": "https://github.com/kadotami/saga-theme#readme",
+  "homepage": "https://github.com/kadotami/wp-template#readme",
   "devDependencies": {
     "gulp-sass": "^4.0.2"
   },
